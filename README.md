@@ -9,6 +9,7 @@ The analysis will focus on the stock performance of six key banks:
 - JPMorgan Chase
 - Morgan Stanley
 - Wells Fargo
+  
 This study will serve as a way to track the trajectory of these banks during a period of extreme volatility and uncertainty, from the crisis up until early 2016.
 
 # Overview
