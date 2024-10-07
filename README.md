@@ -101,16 +101,22 @@ In the year Wise (WFC) faced the stiffest competition with the maximum risk in t
 
  #### Insights
 
-#### Shape of Distribution: The Groebner polyhedra on the given chart appears more or less ‘bell shaped’, majority of returns are within zero. The most common returns made by WFC in daily averaging on annual basis appear to be closed to zero in the centre where there peak is which is from -0.01 through to 0.01.
+#### Shape of Distribution:
+The Groebner polyhedra on the given chart appears more or less ‘bell shaped’, majority of returns are within zero. The most common returns made by WFC in daily averaging on annual basis appear to be closed to zero in the centre where there peak is which is from -0.01 through to 0.01.
 
-#### Skewness: This plot seems to have dominant fang negative skewness which means outliers are strictly in negative returns more than in positive ones. There is a further getting of the tail of the returns toward left returns which is negative returns indicating that every once in the a period rather larger losses than gains are experienced.
+#### Skewness:
+This plot seems to have dominant fang negative skewness which means outliers are strictly in negative returns more than in positive ones. There is a further getting of the tail of the returns toward left returns which is negative returns indicating that every once in the a period rather larger losses than gains are experienced.
 
-#### Bins: In the present analysis you have used bins=50. It is achieved by more than two bins. Going for lower than the p-level returns permutations assists in capturing such minor movements.
+#### Bins:
+In the present analysis you have used bins=50. It is achieved by more than two bins. Going for lower than the p-level returns permutations assists in capturing such minor movements.
 
-#### Color: Green color does enhance the understanding ability while in the mind is visualization of there range and frequency of returns very distinctly. 
+#### Color:
+Green color does enhance the understanding ability while in the mind is visualization of there range and frequency of returns very distinctly. 
 
-#### Range: Therefore for this chart, the x-axis can be stated to have indicated WFC returns within the region of approximately -0.06 and +0.06. Most of the returns made are at close to the zero figure without extreme values on the left and right hand side of the axis.
+#### Range:
+Therefore for this chart, the x-axis can be stated to have indicated WFC returns within the region of approximately -0.06 and +0.06. Most of the returns made are at close to the zero figure without extreme values on the left and right hand side of the axis.
 
-#### Analysis: The graph shows that, on most days, WFC had daily returns which were primarily small – close to zero, with only a few instances of higher returns, especially those which are negative. The
+#### Analysis:
+The graph shows that, on most days, WFC had daily returns which were primarily small – close to zero, with only a few instances of higher returns, especially those which are negative. The
 ``
 
