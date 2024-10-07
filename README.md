@@ -60,24 +60,20 @@ Through this analysis, we hope to understand the broader market dynamics and the
   ![EDA4](https://github.com/user-attachments/assets/91987aca-0fbc-4719-9c58-9a6696007214)
 
   #### Insight
-- Worst Single-Day Drop (via returns.idxmin()):
+#####- Worst Single-Day Drop (via returns.idxmin()):
  
 
 Four banks suffered sharp declines in their popularities in the stock market on January 20, 2009 (On the day of President Obama’s Inauguration). The establishments in focus were: 
  
 
 BAC (Bank of America) 
- 
 
 JPM (JPMorgan) 
  
-
 MS (Morgan Stanley) 
  
-
 WFC (Wells Fargo) 
  
-
 This mass fall could possibly imply a reaction to very significant economic news, such as that there were concerns around that time over the broader financial crisis appearing, or usually it is the change of political party and the leadership. 
  
 - Best Single-Day Gain (via returns.idxmax()):
