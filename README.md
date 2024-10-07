@@ -43,7 +43,8 @@ Through this analysis, we hope to understand the broader market dynamics and the
 ``
  ![EDA1](https://github.com/user-attachments/assets/2577e3c7-84f4-4949-92f2-c4054f6f2ea6)
 
-
+#### Insight
+ Goldman Sachs (GS) had the highest closing price of 423.85, followed by JPMorgan(JPM) at 171.78. Citigroup (C) and Bank of America (BAC) had similar closing prices centered aroung mid-50s.
 
 ``
 
