@@ -28,3 +28,7 @@ In this exploratory data analysis (EDA), we will gather historical stock price d
 Through this analysis, we hope to understand the broader market dynamics and the specific impacts on individual banks. By leveraging historical data and conducting thorough visual and statistical analysis, we aim to draw meaningful conclusions about the financial crisis's effects on the banking sector and their subsequent recovery.
 
 # Let's get started
+
+### The Imports
+![EDA1](https://github.com/user-attachments/assets/81ce22f6-7be8-4d95-a465-b9db9ce9d44b)
+
