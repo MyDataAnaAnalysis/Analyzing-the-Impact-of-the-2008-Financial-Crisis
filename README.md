@@ -30,5 +30,12 @@ Through this analysis, we hope to understand the broader market dynamics and the
 # Let's get started
 
 ### The Imports
-![EDA1](https://github.com/user-attachments/assets/81ce22f6-7be8-4d95-a465-b9db9ce9d44b)
+
+![The Imports](https://github.com/user-attachments/assets/35045801-4f0f-4c37-839d-eb57b0d26caa)
+
+### Getting_Data
+![Getting_Data](https://github.com/user-attachments/assets/f008ff11-55ba-4ac5-8008-23d7ee064f4e)
+
+### Check Data
+![Check_Data](https://github.com/user-attachments/assets/91ac92a2-71cb-41d1-90fe-3e4f48528856)
 
