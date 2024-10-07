@@ -60,7 +60,7 @@ Through this analysis, we hope to understand the broader market dynamics and the
   ![EDA4](https://github.com/user-attachments/assets/91987aca-0fbc-4719-9c58-9a6696007214)
 
   #### Insight
-  - Worst Single-Day Drop (via returns.idxmin()):
+- Worst Single-Day Drop (via returns.idxmin()):
  
 
 Four banks suffered sharp declines in their popularities in the stock market on January 20, 2009 (On the day of President Obama’s Inauguration). The establishments in focus were: 
@@ -80,24 +80,20 @@ WFC (Wells Fargo)
 
 This mass fall could possibly imply a reaction to very significant economic news, such as that there were concerns around that time over the broader financial crisis appearing, or usually it is the change of political party and the leadership. 
  
-
 - Best Single-Day Gain (via returns.idxmax()):
- 
-
+- 
 As some of those notable dates include:  
 
-BAC had its best day on 9 April 2009. 
+-- BAC had its best day on 9 April 2009. 
 
-C (Citigroup) had a stock split in May 2011 which alter the returns than another mad on November 24, 2008.
+-- C (Citigroup) had a stock split in May 2011 which alter the returns than another mad on November 24, 2008.
 
 There was a big jump in the stock price of JPM on January 21, 2009 the day after the inauguration.
 
 Most of these drastic jumps can usually be accounted to the change of mood of the investors or news/events in the market. 
  
-
 - Standard Deviation Analysis (Volatility):
- 
-
+  
 Overall Period (via returns.std()):
 
 It is interesting to note that Citigroup (C) has been classified as the riskiest bank over the whole period since it obtained the highest standard deviation 0.032251, suggesting riskier level of its stock’s returns where its volatility is high.
