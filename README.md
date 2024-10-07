@@ -112,5 +112,28 @@ The x-axis shows that the returns of WFC range from approximately -0.06 to +0.06
 
 #### Insight: 
 The beans from the plot show that WFC daily stock returns were small on most days hanging around the zero levels with a few instances when returns were higher especially on the negative returns. Most of the returns diverge around the break-even point indicating that this is a high turnover and low profitability stock.
+
+![EDA6](https://github.com/user-attachments/assets/6db40919-512e-47a4-8c12-078dafb3d18b)
+
+The distplot shows the returns of Citigroup's shareholders in the year of the Global Financial Crisis, which was 2008. Here’s a breakdown of the plot:
+
+#### Shape of Distribution:
+The distribution is also most being bimodal but rather closer to normal and clustered more concentrated but around 0. Most of the data is concentrated within the tight range due to the wfc returns iraqi invasion, but there were several outliers in either margin indicating hectic shifts in the targets in one financial crsis year
+
+#### Skewness:
+The figure shows some negative skewness. In particular, there are some return figures that go down to -0.2 which implies heavy losses. The negative tail indicates this means that actually more damage than good was done in the case of Citigroup for the year 2008.
+
+#### Bins:
+The histogram uses 50 bins. It may be accepted that the absolute values of the daily returns of Citigroup’s shares are constantly lower that the volumes. Especially, there is a majority concentration of the returns almost about 0 but most extreme negatives and positives about 1.4 returns indicate a potential rise in volatility.
+
+#### Range:
+The x axis express -0.2 to +0.3. There are relatively some high extreme returns positive limiting to 0.3, however the negative side about -0.2 range seems to be dominated more too.
+
+#### Insight:
+The plot illustrates that Citigroup had a bumpy ride in the year 2008 as the majority of the returns were negative owing to the financial downturn witnessed across the global market. The distribution skew works to reflect that the positive effect was few other than the very positive returns concerning losses sustained more often.
+
+This distribution places significant pressure on the stock price that Citigroup will normally see.
+
+
 ``
 
