@@ -46,5 +46,15 @@ Through this analysis, we hope to understand the broader market dynamics and the
 #### Insight
  Goldman Sachs (GS) had the highest closing price of 423.85, followed by JPMorgan(JPM) at 171.78. Citigroup (C) and Bank of America (BAC) had similar closing prices centered aroung mid-50s.
 
+ ![EDA2](https://github.com/user-attachments/assets/2ec16bd2-39cb-48c5-a0ec-9d55518dec78)
+![EDA3](https://github.com/user-attachments/assets/33863608-6e21-4e24-8235-b77774024164)
+
+#### Insight:
+
+- Volatility of Citigroup: The returns available on Citigroup Global Markets stocks are more volatile and have a higher extreme value in time than other banks probe in this research. This may be explained due its investments in risky assets or incurring larger than normal losses in times of financial crises caused during this period (the year of the 2008 financial crises). A greater spread in the distribution of winning trades is attributed to Citigroup with the frequent incidence of red trades judging from the KDE.
+
+- Positive Correlations: The majority of the banks also tend to have very strong return correlations, indicating that their stock returns bounce back or fall at the same time. This is mostly so, as majority of the banks will be under the influence of comparable macroeconomic factors such as (but not limited to): interest rates, market factors, and regulatory settings.
+
+- Citigroup vs Other Banks: Out of the rest, including JPM, BAC and GS, Citigroup seems to deviate from the typical market trend most of the time. When the scatter plots of the other wholesale banks group were constructed each point tends to cluster a given line while with Citigroup the pattern is wider with more points away from the cluster which suggests greater sensitivity of the bank.
 ``
 
