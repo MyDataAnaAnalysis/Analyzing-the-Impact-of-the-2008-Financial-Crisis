@@ -134,6 +134,7 @@ The plot illustrates that Citigroup had a bumpy ride in the year 2008 as the maj
 
 This distribution places significant pressure on the stock price that Citigroup will normally see.
 
+![EDA7](https://github.com/user-attachments/assets/047d4d5d-882a-413b-96f6-2a14aa294dd3)
 
 ``
 
