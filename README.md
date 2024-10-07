@@ -40,10 +40,10 @@ Through this analysis, we hope to understand the broader market dynamics and the
 ![Check_Data](https://github.com/user-attachments/assets/91ac92a2-71cb-41d1-90fe-3e4f48528856)
 
 ## Exploratory Datra Analysis
-```
-- ![EDA1](https://github.com/user-attachments/assets/2577e3c7-84f4-4949-92f2-c4054f6f2ea6)
+``
+ ![EDA1](https://github.com/user-attachments/assets/2577e3c7-84f4-4949-92f2-c4054f6f2ea6)
 
 
 
-```
+``
 
