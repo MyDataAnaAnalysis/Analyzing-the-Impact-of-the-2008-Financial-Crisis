@@ -26,3 +26,5 @@ In this exploratory data analysis (EDA), we will gather historical stock price d
 - Trend Analysis Post-Crisis: We will also explore the performance of these banks from 2009 to early 2016, providing insights into their recovery, growth, and any external factors that may have influenced their stock prices.
 
 Through this analysis, we hope to understand the broader market dynamics and the specific impacts on individual banks. By leveraging historical data and conducting thorough visual and statistical analysis, we aim to draw meaningful conclusions about the financial crisis's effects on the banking sector and their subsequent recovery.
+
+# Let's get started
