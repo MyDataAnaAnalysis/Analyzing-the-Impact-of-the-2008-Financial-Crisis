@@ -75,7 +75,7 @@ WFC (Wells Fargo)
  
 This mass fall could possibly imply a reaction to very significant economic news, such as that there were concerns around that time over the broader financial crisis appearing, or usually it is the change of political party and the leadership. 
  
-- ##### Best Single-Day Gain (via returns.idxmax()): 
+ #### Best Single-Day Gain (via returns.idxmax()): 
 As some of those notable dates include:  
 
 - BAC had its best day on 9 April 2009. 
@@ -86,7 +86,7 @@ There was a big jump in the stock price of JPM on January 21, 2009 the day after
 
 Most of these drastic jumps can usually be accounted to the change of mood of the investors or news/events in the market. 
  
-- ##### Standard Deviation Analysis (Volatility):
+ #### Standard Deviation Analysis (Volatility):
   
 - ##### Overall Period (via returns.std()):
 
