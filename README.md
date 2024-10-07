@@ -10,7 +10,7 @@ The analysis will focus on the stock performance of six key banks:
 - Morgan Stanley
 - Wells Fargo
   
-This study will serve as a way to track the trajectory of these banks during a period of extreme volatility and uncertainty, from the crisis up until early 2016.
+This study will serve as a way to track the trajectory of these banks during a period of extreme volatility and uncertainty, from the crisis up until late 2023.
 
 # Overview
 In this exploratory data analysis (EDA), we will gather historical stock price data for the selected banks from 2006 to 2016. By utilizing this data, we will perform the following:
