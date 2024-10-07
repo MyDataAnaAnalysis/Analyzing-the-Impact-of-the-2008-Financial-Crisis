@@ -99,24 +99,18 @@ In the year Wise (WFC) faced the stiffest competition with the maximum risk in t
 
 ![EDA5](https://github.com/user-attachments/assets/64f02805-29fb-4591-9b74-7131ee4c8f6b)
 
- #### Insights
+ Tne distplot you constructed with Seaborn displays the spread of Wells Fargo Corporation (WFC) returns for the calendar year 2023, with respect to the given specifications. Let’s take the analysis piece by piece:
 
 #### Shape of Distribution:
-The Groebner polyhedra on the given chart appears more or less ‘bell shaped’, majority of returns are within zero. The most common returns made by WFC in daily averaging on annual basis appear to be closed to zero in the centre where there peak is which is from -0.01 through to 0.01.
+The distribution curve is shaped like a normal distribution curve, with most total returns being zero-based. As evident, this was the narrowest peak, showing that in a single day most common return in 2023 for WFC was around break even return.
 
-#### Skewness:
-This plot seems to have dominant fang negative skewness which means outliers are strictly in negative returns more than in positive ones. There is a further getting of the tail of the returns toward left returns which is negative returns indicating that every once in the a period rather larger losses than gains are experienced.
-
-#### Bins:
-In the present analysis you have used bins=50. It is achieved by more than two bins. Going for lower than the p-level returns permutations assists in capturing such minor movements.
-
-#### Color:
-Green color does enhance the understanding ability while in the mind is visualization of there range and frequency of returns very distinctly. 
+#### Skewness: 
+Within the figures it appears there is a slight negative derogatory skewness, which means there are more return negative outliers that are positive. The negative tail of the returns adjusts more extreme on the negative side of the wideness as towards loss makes larger in most of instance compared to where there is gain.
 
 #### Range:
-Therefore for this chart, the x-axis can be stated to have indicated WFC returns within the region of approximately -0.06 and +0.06. Most of the returns made are at close to the zero figure without extreme values on the left and right hand side of the axis.
+The x-axis shows that the returns of WFC range from approximately -0.06 to +0.06. The most inward of the returns is at the 0 point range since there is little peak to least peak value on any one of the upsides or downside extremities.
 
-#### Analysis:
-The graph shows that, on most days, WFC had daily returns which were primarily small – close to zero, with only a few instances of higher returns, especially those which are negative. The
+#### Insight: 
+The beans from the plot show that WFC daily stock returns were small on most days hanging around the zero levels with a few instances when returns were higher especially on the negative returns. Most of the returns diverge around the break-even point indicating that this is a high turnover and low profitability stock.
 ``
 
